@@ -7,7 +7,7 @@ A pandemia de Covid-19 começou em 2019 e ainda está afetando o mundo todo. Os 
 Estimativas variadas indicam que de 50% a 80% dos casos de Covid-19 podem ser assintomáticos. No entanto, essas estatísticas variam dependendo de fatores como a população testada e o nível de transmissão do vírus na área. Além disso, novos estudos têm apontado para a possibilidade de que pessoas assintomáticas possam transmitir o vírus, mesmo sem apresentar sintomas. É importante lembrar que o número exato de casos assintomáticos de Covid-19 ainda está sendo estudado e pode mudar conforme novos dados sejam coletados e analisados.
 
 <p align="center">
-  <img src="img/NYC_ab.jpg" >
+  <img src="joao_covid19.jpg" width=70% >
 </p>
 
 
@@ -15,4 +15,4 @@ A porcentagem de casos graves de Covid-19 varia dependendo de diversos fatores, 
 
 Com o objetivo de elevar a consciência situacional a respeito do COVID-19 no Brasil e no mundo, realizamos nesse projeto algumas análises sobre os dados públicos da doença com dados que compreendem desde os primeiros casos, até os dias atuais, uma vez que a base de dados utilizada é atualizada frequentemente. Dentre estas análises, iremos verificar o total de casos, evolução de óbitos, proporções, distribuição geográfica, considerando os dados do mundo, e comportamento desses dados após o início das vacinações contra a COVID-19.
 
-[O trabalho pode ser conferido aqui!]()
+[O trabalho pode ser conferido aqui!](https://github.com/joaomarcelofc/Analisando_Panorama_COVID19/blob/main/Google_Colab1_Panorama_do_COVID_19_no_Brasil_e_no_mundo_V3.ipynb)
