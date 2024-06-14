@@ -1,4 +1,4 @@
-# Analisando_Panorama_COVID19
+# Panorama do COVID-19 no Brasil e no mundo
 
 O coronavírus (COVID-19) é uma doença infecciosa causada pelo vírus SARS-CoV-2.
 
